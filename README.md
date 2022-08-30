@@ -98,11 +98,7 @@ last modified: 2022-08-18
 
 ## Total Architecture
 
-- 기획  
-![total_architecture_refined.drawio](/uploads/a5c85dfe389a1280565afa1ecd76e5ae/total_architecture_refined.drawio.png)
-
-- 최종  
-![total_architecture](/uploads/6aa48867839c48b3a5ac4dc84bdd26d8/total_architecture.png)
+![total architecture refined drawio](https://user-images.githubusercontent.com/74483608/187326252-44f92d68-6f5d-4778-93ff-fe9c54de2672.png)
 
 
 
